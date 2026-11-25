@@ -185,6 +185,14 @@ When implementation begins, local configuration should be stored in environment 
 4. Open a pull request describing the change, testing performed, and any data-model impact.
 5. Never commit credentials, private animal/owner data, or real rescue evidence.
 
+## Project documentation
+
+- [Project plan](docs/PROJECT_PLAN.md) — scope, user journeys, phases, success metrics, and definition of done.
+- [System architecture](docs/ARCHITECTURE.md) — components, data flow, security, offline strategy, and deployment topology.
+- [Conceptual data model](docs/DATA_MODEL.md) — core entities, relationships, integrity, and privacy considerations.
+- [Implementation backlog](docs/IMPLEMENTATION_BACKLOG.md) — prioritized work items and milestones.
+- [Development guidelines](docs/DEVELOPMENT_GUIDELINES.md) — branch, commit, API, security, and pull request conventions.
+
 ## License
 
 No open-source license has been selected yet. Until a license is added, standard copyright applies and reuse should not be assumed to be permitted.
